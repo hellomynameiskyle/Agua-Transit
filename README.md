@@ -1,15 +1,13 @@
-# Shipment Dashboard
+# Agua, Inc. - Shipments and Transit Dashboard
 
-A modern, responsive dashboard for tracking shipments built with React, TypeScript, Vite, Tailwind CSS, and Recharts.
+A modern, responsive dashboard for tracking shipments and loads around the world.
 
 ## Features
 
 - **Real-time Updates**: Dashboard updates every 5 seconds with simulated live data
 - **Summary Cards**: Key metrics including total shipments, cost, average weight, and in-transit count
 - **Shipments Table**: Detailed view of recent shipments with status indicators
-- **Interactive Chart**: Visual representation of shipments over time using Recharts
-- **Responsive Design**: Modern UI with sidebar navigation and clean layout
-- **Loading States**: Skeleton loading animations for better UX
+- **Interactive Chart**: Visual representation of shipments over time 
 
 ## Tech Stack
 
@@ -95,7 +93,7 @@ Each shipment includes:
 
 ## Real-time Simulation
 
-The dashboard simulates live updates by:
+The dashboard reflects live updates by:
 - Randomly adjusting shipment costs
 - Updating ETAs
 - Changing shipment statuses
