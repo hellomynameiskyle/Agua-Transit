@@ -11,16 +11,6 @@ A responsive dashboard for Agua employees to track and view shipments data.
 - **Shipments Table**: Detailed view of recent shipments with status indicators
 - **Interactive Chart**: Visual representation of shipments over time 
 
-## Tech Stack
-
-- **React 18** with functional components and hooks
-- **TypeScript** for type safety
-- **Vite** for fast development and building
-- **Tailwind CSS** for styling
-- **Recharts** for data visualization
-- **Lucide React** for icons
-- **date-fns** for date formatting
-
 ## Getting Started
 
 ### Prerequisites
