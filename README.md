@@ -2,6 +2,8 @@
 
 A modern, responsive dashboard for tracking shipments and loads around the world.
 
+![shipments dashboard user interface](src/img/dashboard.png)
+
 ## Features
 
 - **Real-time Updates**: Dashboard updates every 5 seconds with simulated live data
