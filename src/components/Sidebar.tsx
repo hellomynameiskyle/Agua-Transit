@@ -14,6 +14,7 @@ export function Sidebar() {
         <div>
           <p className="sidebar-brand">
             AGUA, INC.
+            
           </p>
         </div>
       </div>
