@@ -28,7 +28,8 @@ export function ShipmentsTable({ shipments }: ShipmentsTableProps) {
           </thead>
           <tbody>
             {shipments.slice(0, 10).map((shipment, index) => (
-              <tr key={shipment.id} className={index % 2 === 0 ? 'row-even' : 'row-odd'}>
+              <tr key={shipment.id}
+                  className={index % 2 === 0 ? 'row-even' : 'row-odd'}>
                 <td>{shipment.id}</td>
                 <td>{shipment.origin.city}, {shipment.origin.state}</td>
                 <td>{shipment.destination.city}, {shipment.destination.state}</td>
