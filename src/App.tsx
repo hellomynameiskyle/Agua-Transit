@@ -16,6 +16,7 @@ function App() {
   const inTransitCount = shipments.filter(s => s.status === 'in-transit').length;
 
   // todo: maintain state following initial API calls
+  // todo: do the thing
   return (
     <div className="app-layout">
       <Sidebar />
